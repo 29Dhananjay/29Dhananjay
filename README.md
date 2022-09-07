@@ -32,7 +32,6 @@ Inquisitive, flexible, and autonomous First class MSci physics graduate and a cu
 ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
-![Stats Overview](https://github.com/29Dhananjay/stats/blob/master/generated/overview.svg)
 ![Most Used Languages](https://github.com/29Dhananjay/stats/blob/master/generated/languages.svg)
 
 </a>
