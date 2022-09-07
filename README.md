@@ -38,7 +38,7 @@ Inquisitive, flexible, and autonomous First class MSci physics graduate and a cu
 
 <br>
 
-### 🛠️ Research papers
+### 🛠️ My research papers
 - [Recent advances in Artificial Intelligence with a focus on Neural networks](https://drive.google.com/file/d/10i5WSTvYIY34SRuGSeisv_iz4Qmr6vs8/view?usp=sharing). (Sep’ 2021)
 - [Parallel N-body gravitational simulations](https://arxiv.org/pdf/2208.13562.pdf): Designed and developed a parallel implementation of gravitational n-body simulations. This research involved simulating (evolving) our solar system for 1000 years (2015 to 3015) on the Blue Crystal supercomputer. (Feb’ 2021)
 - [Beyond Standard Model Physics (BSM)](https://drive.google.com/file/d/1f_lthY4eCkgUkL9OaMZQWB8jnAGhQfqs/view?usp=sharing): A comprehensive mathematical review of phenomena that cannot be explained by the Standard Model of particle physics, such as dark matter, Higgs boson's mass, and neutrino masses. (Feb' 2021)
