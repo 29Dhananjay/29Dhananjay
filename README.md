@@ -11,7 +11,7 @@ Inquisitive, flexible, and autonomous First class MSci physics graduate and a cu
 ### About Me:
 
 - 🔭 &nbsp; I’m working on **neural network compression**
-- 🌱 &nbsp; I’m currently learning the game go and reading a book on Reinforcement learning 
+- 🌱 &nbsp; I’m currently reading a book on Reinforcement learning 
 - 💬 &nbsp; Ask me about anything about Physics and AI, ranging from black holes, the nature of time, quantum physics, quantum computing, neural networks and more.
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/dhananjay-saikumar-884079164/)
 - 📝 &nbsp; [Resume](https://drive.google.com/file/d/1X4FU_FwxLVF30alGXYncRTiXnKQXgZaH/view?usp=sharing)
