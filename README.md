@@ -15,7 +15,8 @@ Inquisitive, flexible, and autonomous First class MSci physics graduate and a cu
 - 💬 &nbsp; Ask me about anything about Physics and AI, ranging from black holes, the nature of time, quantum physics, quantum computing, neural networks and more.
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/dhananjay-saikumar-884079164/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1X4FU_FwxLVF30alGXYncRTiXnKQXgZaH/view?usp=sharing)
-- ⛹🏽‍♂️ &nbsp; I am an avid runner (4237 KM in the last 3 years), and when I'm free, I read about history, politics, and listen to [Lex Fridman](https://lexfridman.com/podcast/), [Coldfusion](https://www.youtube.com/channel/UC4QZ_LsYcvcq7qOsOhpAX4A), and [PBS spacetime](https://www.youtube.com/c/pbsspacetime)
+- ⛹🏽‍♂️ &nbsp; Avid runner (4237 KM in the last 3 years)
+- 🎓 &nbsp; I enjoy history, and listening to [Lex Fridman](https://lexfridman.com/podcast/), [Coldfusion](https://www.youtube.com/channel/UC4QZ_LsYcvcq7qOsOhpAX4A), and [PBS spacetime](https://www.youtube.com/c/pbsspacetime)
 
 <br>
 
@@ -39,3 +40,8 @@ Inquisitive, flexible, and autonomous First class MSci physics graduate and a cu
 <br>
 
 ### 🛠️ My Projects
+- [Distributed computing](https://arxiv.org/pdf/2208.13562.pdf): Designed and developed a parallel implementation of gravitational n-body simulations. This research involved simulating (evolving) our solar system for 1000 years (2015 to 3015) on the Blue Crystal supercomputer. (Feb’ 2021)
+- [Beyond Standard Model Physics (BSM)](https://drive.google.com/file/d/1f_lthY4eCkgUkL9OaMZQWB8jnAGhQfqs/view?usp=sharing): A comprehensive mathematical review of phenomena that cannot be explained by the Standard Model of particle physics, such as dark matter, Higgs boson's mass, and neutrino masses. (Feb' 2021)
+- [Black Hole analysis](https://drive.google.com/file/d/1mLz2ryVfoJvEklmXb1xM2E3w6CRF5fMP/view?usp=sharing): Explored how the first image of a black hole was taken by the Event Horizon Telescope team via an introduction to General relativity to Very Long Baseline Interferometry to General Relativistic Magnetohydrodynamics simulations, which were ultimately used to estimate the parameters of the M87* black hole, such as mass and spin orientation. (Mar' 2020)
+- [Photographing individual atoms](https://drive.google.com/file/d/1h4-zYH9le35nJupCKIjVtjKQ0LJmSXIQ/view?usp=sharing): Explored how the first image of a black hole was taken by the Event Horizon Telescope team via an introduction to General relativity to Very Long Baseline Interferometry to General Relativistic Magnetohydrodynamics simulations, which were ultimately used to estimate the parameters of the M87* black hole, such as mass and spin orientation. (Mar' 2020)
+
