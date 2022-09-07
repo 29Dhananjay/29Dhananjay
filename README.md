@@ -15,7 +15,7 @@ Inquisitive, flexible, and autonomous First class MSci physics graduate and a cu
 - 💬 &nbsp; Ask me about anything about Physics and AI, ranging from black holes, the nature of time, quantum physics, quantum computing, neural networks and more.
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/dhananjay-saikumar-884079164/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1X4FU_FwxLVF30alGXYncRTiXnKQXgZaH/view?usp=sharing)
-- ⛹🏽‍♂️ &nbsp; Avid runner (4237 KM in the last 3 years)
+- ⛹🏽‍♂️ &nbsp; Avid runner: 4237 KM in the last 3 years
 - 🎓 &nbsp; I enjoy history, and listening to [Lex Fridman](https://lexfridman.com/podcast/), [Coldfusion](https://www.youtube.com/channel/UC4QZ_LsYcvcq7qOsOhpAX4A), and [PBS spacetime](https://www.youtube.com/c/pbsspacetime)
 
 <br>
