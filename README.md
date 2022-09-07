@@ -6,7 +6,7 @@ Inquisitive, flexible, and autonomous First class MSci physics graduate and a cu
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://github.com/29Dhananjay/29Dhananjay/blob/main/giphy-3.gif" width="600px"/>
+<img align="right" alt="GIF" src="https://github.com/29Dhananjay/29Dhananjay/blob/main/SMBH_Sim_ThinTilt_Palindrome.gif" width="600px" height="380px"/>
   
 ### About Me:
 
