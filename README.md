@@ -40,7 +40,7 @@ Inquisitive, flexible, and autonomous First class MSci physics graduate and a cu
 <br>
 
 ### 🛠️ My Projects
-- [Recent advances in Artificial Intelligence with a focus on Neural networks](https://drive.google.com/file/d/10i5WSTvYIY34SRuGSeisv_iz4Qmr6vs8/view?usp=sharing)
+- [Recent advances in Artificial Intelligence with a focus on Neural networks](https://drive.google.com/file/d/10i5WSTvYIY34SRuGSeisv_iz4Qmr6vs8/view?usp=sharing). (Sep’ 2021)
 - [Parallel N-body gravitational simulation](https://arxiv.org/pdf/2208.13562.pdf): Designed and developed a parallel implementation of gravitational n-body simulations. This research involved simulating (evolving) our solar system for 1000 years (2015 to 3015) on the Blue Crystal supercomputer. (Feb’ 2021)
 - [Beyond Standard Model Physics (BSM)](https://drive.google.com/file/d/1f_lthY4eCkgUkL9OaMZQWB8jnAGhQfqs/view?usp=sharing): A comprehensive mathematical review of phenomena that cannot be explained by the Standard Model of particle physics, such as dark matter, Higgs boson's mass, and neutrino masses. (Feb' 2021)
 - [Black Hole analysis](https://drive.google.com/file/d/1mLz2ryVfoJvEklmXb1xM2E3w6CRF5fMP/view?usp=sharing): Explored how the first image of a black hole was taken by the Event Horizon Telescope team via an introduction to General relativity to Very Long Baseline Interferometry to General Relativistic Magnetohydrodynamics simulations, which were ultimately used to estimate the parameters of the M87* black hole, such as mass and spin orientation. (Mar' 2020)
