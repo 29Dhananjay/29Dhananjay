@@ -6,7 +6,7 @@ Inquisitive, flexible, and autonomous First class MSci physics graduate and a cu
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="330px"/>
   
 ### About Me:
 
